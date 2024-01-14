@@ -1,10 +1,10 @@
 {
     "name": "CatsModdedModpack",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://github.com/JustCat80/CatsModdedModpack",
     "description": "A modpack I made for some friends",
     "dependencies": [
-        "justcat8-CatsLethalModpack-1.7.0",
+        "justcat8-CatsLethalModpack-1.7.5",
         "RugbugRedfern-Skinwalkers-3.0.1",
         "HomelessGinger-MaskedEnemyOverhaul-3.0.0",
         "Piggy-MaskedAIRevamp-0.1.1",
