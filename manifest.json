@@ -1,10 +1,10 @@
 {
     "name": "CatsModdedModpack",
-    "version_number": "1.2.0",
+    "version_number": "1.3.0",
     "website_url": "https://github.com/JustCat80/CatsModdedModpack",
     "description": "A modpack I made for some friends",
     "dependencies": [
-        "justcat8-CatsLethalModpack-1.7.5",
+        "justcat8-CatsLethalModpack-1.7.7",
         "RugbugRedfern-Skinwalkers-3.0.1",
         "HomelessGinger-MaskedEnemyOverhaul-3.0.0",
         "Piggy-MaskedAIRevamp-0.1.1",
@@ -43,6 +43,12 @@
         "F4ilS4fe-MaskTheDead-1.0.5",
         "MoonriseProject-Springfield-1.0.2",
         "Panton-Racist_Hoarding_Bugs-2.0.3",
-        "readboy_and_the_boys-brackensuit-1.0.2"
+        "readboy_and_the_boys-brackensuit-1.0.2",
+        "Bobbie-MetalRecharging-1.0.0",
+        "JunLethalCompany-GamblingMachineAtTheCompany-1.3.4",
+        "Bingle-MinecraftCaveSounds-1.0.0",
+        "amnsoft-EmployeeAssignments-1.1.0",
+        "Monkeytype-HidePlayerNames-1.0.2",
+        "ViViKo-NoSellLimit-1.0.1"
     ]
 }
