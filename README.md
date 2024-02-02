@@ -5,6 +5,4 @@ A modpack I made for some friends
 
 If there are updates to any of the mods, please create an issue or pull request on the [Github Page](https://github.com/JustCat80/CatsModdedModpack)
 
-# Changelog
-- 1.0.0: 
-    Release
+For updates check the [Changelog](https://thunderstore.io/c/lethal-company/p/justcat8/CatsModdedModpack/changelog/)
